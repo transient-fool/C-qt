@@ -1,0 +1,9 @@
+E:/pet/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/pet.dir
+E:/pet/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/pet/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/pet/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+E:/pet/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+E:/pet/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+E:/pet/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+E:/pet/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/pet_autogen_timestamp_deps.dir
+E:/pet/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/pet_autogen.dir
