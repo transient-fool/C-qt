@@ -1,1 +1,1 @@
-# C-qt
+# C-qt or C/C++ Project
